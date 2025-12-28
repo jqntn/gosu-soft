@@ -5,7 +5,6 @@
 int
 main()
 {
-
   if (glfwInit() == GLFW_FALSE) {
     return EXIT_FAILURE;
   }
