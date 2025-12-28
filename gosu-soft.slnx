@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="gosu-soft.vcxproj" Id="91770009-2f11-4fec-9d8c-24bf0e239777" />
+</Solution>
