@@ -1,2 +1,2 @@
 # gosu-soft
-software rendered version of gosu, using PortableGL
+software rendered version of [gosu](https://github.com/jqntn/gosu), using PortableGL
